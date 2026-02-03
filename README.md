@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Huntpad</h1>
+<h1 align="center">🟣 Huntpad 🟪</h1>
 
 <p align="center">
   <strong>Mobile-first companion for bug hunters and pentesters</strong><br/>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/huntpad.png" alt="HuntPad Logo" width="180"/>
+  <img src="./assets/Huntpad.png" alt="HuntPad Logo" width="180"/>
 </p>
 
 <p align="center">
