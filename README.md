@@ -15,6 +15,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drift-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
 ## 🚀 Overview
 
 **HuntPad** is a mobile application designed specifically for **bug hunters and mobile pentesters**.  
