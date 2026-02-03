@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/huntpad.png" alt="HuntPad Logo" width="180"/>
+  <img src="./assets/huntpad.png" alt="HuntPad Logo" width="180"/>
 </p>
 
 <p align="center">
